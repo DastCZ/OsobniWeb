@@ -1,2 +1,5 @@
-# OsobniWeb
-Můj osobní web DAST.EU.ORG
+# Dast
+Web jednoho špatného kódera.
+
+
+> Novinka: Nový nástroj na vytváření QR kódu!
